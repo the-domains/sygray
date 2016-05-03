@@ -2,6 +2,7 @@ name: sygray
 favicon: null
 layout_spectrum: 0.24763991590589285
 typography_spectrum: 0.9139325737487525
+title: Sygray
 cta:
   domain: null
   bucket: null
